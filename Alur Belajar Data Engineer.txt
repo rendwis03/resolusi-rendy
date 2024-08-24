@@ -1,4 +1,3 @@
-Mengenal Mysql
 Belajar dan praktik bahasa Python
 Mengenal Linux
 mempelajari kegunaan Git & Github
@@ -6,3 +5,4 @@ Mengenal Docker
 Mempelajari tools yang ada di data engineer
 Membuat projek bahasa Python
 Membuat database sederhana
+Belajar membaca dokumentasi
