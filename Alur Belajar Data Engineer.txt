@@ -4,3 +4,5 @@ Mengenal Linux
 mempelajari kegunaan Git & Github
 Mengenal Docker
 Mempelajari tools yang ada di data engineer
+Membuat projek bahasa Python
+Membuat database sederhana
