@@ -1,3 +1,4 @@
+Memahami database
 Belajar dan praktik bahasa Python
 Mengenal Linux
 mempelajari kegunaan Git & Github
